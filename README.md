@@ -1,2 +1,2 @@
-# dio-desafio-git
-Create a repository at Github
+# Desafio Git/GitHub DIO
+Criar o primeiro repositório no GitHub.
